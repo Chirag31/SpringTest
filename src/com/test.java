@@ -6,7 +6,6 @@ public class test {
   System.out.print("hello   1234566");
   System.out.print("hello   12345778888");
   System.out.print("hello   12345778888");
-
   }
 
 
