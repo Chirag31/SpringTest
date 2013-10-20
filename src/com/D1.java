@@ -1,5 +1,3 @@
-package com;
-
-public class D1 {
-
+class D1{
 }
+
